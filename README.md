@@ -29,4 +29,6 @@ Play instantly by clicking!
 
 ![image](https://play-lh.googleusercontent.com/bMD0SQ4XYsobnE09xG-E72zu9RqGjAEpni5bD7qPfipVtsiaQjV3ASwioW5RJDg3Z4w=w1920-h912-rw)
 
+<center><div id="interact-623627ff0d7eba0018628fca"></div><script>var app_623627ff0d7eba0018628fca;(function(d, t){var s=d.createElement(t),options={"appId":"623627ff0d7eba0018628fca","width":"800","height":"800","async":true,"host":"quiz.tryinteract.com","no_cover":true,"redirect_host":true, "footer":"show"};s.src='https://i.tryinteract.com/embed/app.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{app_623627ff0d7eba0018628fca=new InteractApp();app_623627ff0d7eba0018628fca.initialize(options);app_623627ff0d7eba0018628fca.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script> </center>
+
 [Privacy Policy](https://app-downloaded.com/privacy-policy/) [Contact Us](https://app-downloaded.com/privacy-policy/)
