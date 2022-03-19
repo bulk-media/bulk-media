@@ -1,7 +1,7 @@
 ## State of Survival: The Zombie Apocalypse
 
 Get State of Survival: The Zombie Apocalypse for IOS
-It is a strategy game developed by KingsGroup Holdings. The BlueStacks app player makes it easy to play this Android game on your Iphone or Mac for truly immersive gaming.
+It is a strategy game developed by KingsGroup Holdings. Easy to play this Android game on your Iphone or Mac for truly immersive gaming.
 
 <center><div id="interact-62361c4c0694ed00188b1c87"></div><script>var app_62361c4c0694ed00188b1c87;(function(d, t){var s=d.createElement(t),options={"appId":"62361c4c0694ed00188b1c87","width":"800","height":"800","async":true,"host":"quiz.tryinteract.com","no_cover":true,"redirect_host":true, "footer":"show"};s.src='https://i.tryinteract.com/embed/app.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{app_62361c4c0694ed00188b1c87=new InteractApp();app_62361c4c0694ed00188b1c87.initialize(options);app_62361c4c0694ed00188b1c87.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script></center>
 
